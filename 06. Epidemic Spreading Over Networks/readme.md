@@ -6,3 +6,5 @@
 - [Network Modelling for Epidemics](https://statnet.github.io/nme/)
 
 - [Sunbelt](http://statnet.github.io/sb/):Sunbelt is the yearly conference of the International Network for Social Network Analysis. The conference offers several workshops for software tools, and statnet developers have been teaching there for several years. There is no EpiModel course at the Sunbelt this year but the 2015 materials are still available online. 
+
+- [Statnet](https://statnet.org/trac/wiki/Resources)
