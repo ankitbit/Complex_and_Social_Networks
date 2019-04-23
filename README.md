@@ -6,3 +6,4 @@
 - [CS673: Structure and Dynamics of Networked Information](https://www-bcf.usc.edu/~dkempe/CS673/index.html)
 - [Information Networks](http://www.cs.uoi.gr/~tsap/teaching/InformationNetworks/)
 - [Models and Algorithms for Complex Networks](http://www.cs.uoi.gr/~tsap/teaching/MACN2006/)
+- [Data Mining](http://www.cs.uoi.gr/~tsap/teaching/2016-cse012/material-en.html)
